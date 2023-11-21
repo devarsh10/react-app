@@ -28,4 +28,4 @@ jobs:
           deployment_package: deploy.zip
 
       - name: Deployed!
-        run: echo Application Finally Deployed!!
+        run: echo Application Finally Deployed!!!
